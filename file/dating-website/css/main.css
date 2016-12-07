@@ -53,7 +53,7 @@ div.ex1 {
   /* of the menu bar column below. */
   nav {
     padding-left: 0px;
-    background: #000;
+    background: #F06292;
     overflow: hidden;
   }
 
@@ -62,7 +62,7 @@ div.ex1 {
   footer {
     clear: left;
     width: 100%;
-    background: #ccc;
+    background: #E91E63;
     padding: 4px 0;
   }
 
@@ -76,7 +76,11 @@ div.ex1 {
   }
 
   p {
-    color: pink;
+    color: #EC407A;
+  }
+
+  h1 {
+    color: #FF1744
   }
 
   /* Additions to support the external */
@@ -117,7 +121,7 @@ overflow: hidden;
 .site-menu a {
   font-weight: normal;
   padding: 0px 5px;
-  font-size: 18px;
+  font-size: 25px;
   color: #fff;
   text-decoration: none;
 }
