@@ -15,7 +15,7 @@ div.ex1 {
     width: 851px;
     margin: auto;
     float: center;
-    border: 6px solid darkgray;
+    border: 6px solid deeppink;
     background-color: #FFFFFF;
 }
 
@@ -86,7 +86,7 @@ div.ex1 {
     margin: 0;
     padding-top: 15px;
     font-family: Sans-Serif;
-    color: pink;
+    color: hotpink;
   }
 
 .site-footer{
@@ -125,6 +125,6 @@ overflow: hidden;
 /* Change the highlight     */
 /* color of the menu below */
 .site-menu a:hover {
-  color: magenta;
+  color: hotpink;
   text-decoration: none;
 }
